@@ -5,6 +5,12 @@ Welcome! This is a collection of my data analytics projects showcasing skills in
 ---
 
 ## 🔹 Featured Projects
+
+### 🚴 Excel Bike Sales Dashboard
+- **Goal**: Analyzed customer demographics to find factors influencing bike purchases.  
+- **Repo**: [excel-bike-sales-dashboard](https://github.com/Ishu-Farainzia/excel-bike-sales-dashboard)  
+- ![Dashboard](excel-bike-sales-dashboard/image/dashboard.png)
+- 
 ### 1. Retail Sales Analysis (SQL + Dashboard)
 - **Goal**: Analyzed Olist e-commerce dataset to identify sales trends, top categories, and payment insights.
 - **Skills**: SQL (joins, window functions), Data Cleaning, Power BI dashboard
