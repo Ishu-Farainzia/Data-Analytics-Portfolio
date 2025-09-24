@@ -7,15 +7,17 @@ Welcome! This is a collection of my data analytics projects showcasing skills in
 ## 🔹 Featured Projects
 
 ### 🚴 Excel Bike Sales Dashboard
-- **Goal**: Analyzed customer demographics to find factors influencing bike purchases.  
+- **Goal**: Analyzed customer demographics to find factors influencing bike purchases.
+- **Skills**: Excel (Pivot Tables, Charts, Slicers), Data Cleaning, Dashboard Design
 - **Repo**: [excel-bike-sales-dashboard](https://github.com/Ishu-Farainzia/excel-bike-sales-dashboard)  
 - ![Bike Sales Dashboard](https://github.com/Ishu-Farainzia/excel-bike-sales-dashboard/blob/main/excel-bike-sales-dashboard/image/dashboard.png)
-  
-### 1. Retail Sales Analysis (SQL + Dashboard)
-- **Goal**: Analyzed Olist e-commerce dataset to identify sales trends, top categories, and payment insights.
-- **Skills**: SQL (joins, window functions), Data Cleaning, Power BI dashboard
-- **Repo**: [Retail-Sales-Analysis](./sql-case-studies/Retail-Sales-Analysis)
-- ![Dashboard Screenshot](./sql-case-studies/Retail-Sales-Analysis/images/dashboard.png)
+
+### 🛒 Superstore Sales Analysis (Excel Dashboard)  
+- **Goal**: Analyzed Superstore dataset to uncover sales and profitability patterns across regions, categories, and customer segments.  
+- **Skills**: Excel (Pivot Tables, Charts, Slicers), Data Cleaning, Dashboard Design  
+- **Repo**: [Superstore-Sales-Analysis](https://github.com/Ishu-Farainzia/excel-superstore-sales-dashboard/tree/main)  
+- ![Dashboard Screenshot](https://github.com/Ishu-Farainzia/excel-superstore-sales-dashboard/blob/main/excel_superstore_sales_dashboard/images/dashboard_superstore_sales.png)  
+
 
 ---
 
