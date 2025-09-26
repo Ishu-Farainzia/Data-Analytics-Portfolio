@@ -12,6 +12,13 @@ Welcome! This is a collection of my data analytics projects showcasing skills in
 - **Repo**: [excel-bike-sales-dashboard](https://github.com/Ishu-Farainzia/excel-bike-sales-dashboard)  
 - ![Bike Sales Dashboard](https://github.com/Ishu-Farainzia/excel-bike-sales-dashboard/blob/main/excel-bike-sales-dashboard/image/dashboard.png)
 
+### 2. Farainzia Store Annual Sales Report (Excel Dashboard)
+- **Goal**: Analyzed Vrinda Store’s sales data for 2022 to identify customer demographics, channel performance, and order trends, helping the store plan for growth in 2023.  
+- **Skills**: Excel (Pivot Tables, Charts, Slicers, Conditional Formatting, Dashboard Design)  
+- **Dataset**: Farainzia Store sales dataset (2022, Excel)  
+- **Repo**: [Farainzia-Store-Sales-Analysis](https://github.com/Ishu-Farainzia/excel_FarainziaStore_sales_dashboard/tree/main)  
+- ![Dashboard Screenshot](https://github.com/Ishu-Farainzia/excel_FarainziaStore_sales_dashboard/blob/main/excel_FarainziaStore_sales_dashboard/image/Farainzia_Store_Dashboard_2022.png)
+
 ### 🛒 Superstore Sales Analysis (Excel Dashboard)  
 - **Goal**: Analyzed Superstore dataset to uncover sales and profitability patterns across regions, categories, and customer segments.  
 - **Skills**: Excel (Pivot Tables, Charts, Slicers), Data Cleaning, Dashboard Design  
