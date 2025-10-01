@@ -12,7 +12,7 @@ Welcome! This is a collection of my data analytics projects showcasing skills in
 - **Repo**: [excel-bike-sales-dashboard](https://github.com/Ishu-Farainzia/excel-bike-sales-dashboard)  
 - ![Bike Sales Dashboard](https://github.com/Ishu-Farainzia/excel-bike-sales-dashboard/blob/main/excel-bike-sales-dashboard/image/dashboard.png)
 
-### 2. Farainzia Store Annual Sales Report (Excel Dashboard)
+### Farainzia Store Annual Sales Report (Excel Dashboard)
 - **Goal**: Analyzed Vrinda Store’s sales data for 2022 to identify customer demographics, channel performance, and order trends, helping the store plan for growth in 2023.  
 - **Skills**: Excel (Pivot Tables, Charts, Slicers, Conditional Formatting, Dashboard Design)  
 - **Dataset**: Farainzia Store sales dataset (2022, Excel)  
@@ -25,6 +25,11 @@ Welcome! This is a collection of my data analytics projects showcasing skills in
 - **Repo**: [Superstore-Sales-Analysis](https://github.com/Ishu-Farainzia/excel-superstore-sales-dashboard/tree/main)  
 - ![Dashboard Screenshot](https://github.com/Ishu-Farainzia/excel-superstore-sales-dashboard/blob/main/excel_superstore_sales_dashboard/images/dashboard_superstore_sales.png)  
 
+### 💰 Personal Expense Tracker Dashboard
+- **Goal**: Tracked income, expenses, and savings to analyze cash flow and identify spending patterns.  
+- **Skills**: Excel (Pivot Tables, Charts, INDEX-MATCH, Conditional Formatting), Data Cleaning, Dashboard Design  
+- **Repo**: [excel-expense-tracker-dashboard](https://github.com/Ishu-Farainzia/Excel_portfolio/tree/main/finance_analytics/excel_personal_expense_tracker_dashboard)  
+- ![Expense Tracker Dashboard](https://github.com/Ishu-Farainzia/Excel_portfolio/blob/main/finance_analytics/excel_personal_expense_tracker_dashboard/image/expense_tracker_dashboard.png)
 
 ---
 
