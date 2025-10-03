@@ -31,6 +31,12 @@ Welcome! This is a collection of my data analytics projects showcasing skills in
 - **Repo**: [excel-expense-tracker-dashboard](https://github.com/Ishu-Farainzia/Excel_portfolio/tree/main/finance_analytics/excel_personal_expense_tracker_dashboard)  
 - ![Expense Tracker Dashboard](https://github.com/Ishu-Farainzia/Excel_portfolio/blob/main/finance_analytics/excel_personal_expense_tracker_dashboard/image/expense_tracker_dashboard.png)
 
+### 📈 Tesla Stock Analysis (2010–2020)
+- **Goal:** Analyzed Tesla’s stock performance to assess returns, volatility, and risk-reward profile.  
+- **Skills:** Excel (Returns, Volatility, Moving Averages, Histograms, Dashboards)  
+- **Repo:** [tesla-stock-analysis](https://github.com/Ishu-Farainzia/Excel_portfolio/tree/main/finance_analytics/excel-stockmarket_dashboard)  
+- ![Tesla Stock Dashboard](https://github.com/Ishu-Farainzia/Excel_portfolio/blob/main/finance_analytics/excel-stockmarket_dashboard/images/dashboard.png)
+
 ---
 
 ## 🛠️ Tools & Skills
